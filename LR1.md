@@ -24,34 +24,34 @@
 Работу проверили:
 - к.э.н., доцент Панов М.А.
 2.1. Установка
-https://github.com/SergUdav/PI/blob/LR1/pic/1.png
+![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/1.png)
 2.2. Настройка
-https://github.com/SergUdav/PI/blob/LR1/pic/2.png
+![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/2.png)
 2.3. Создание нового репозитория
-https://github.com/SergUdav/PI/blob/LR1/pic/3.png
+![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/3.png)
 2.4. Подготовка файлов
-https://github.com/SergUdav/PI/blob/LR1/pic/4.png
+![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/4.png)
 2.5. Фиксация изменений
-https://github.com/SergUdav/PI/blob/LR1/pic/5.png
+![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/5.png)
 2.6. Подключение к удаленному репозиторию
-https://github.com/SergUdav/PI/blob/LR1/pic/6.png
+![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/6.png)
 2.7. Ветвление
-https://github.com/SergUdav/PI/blob/LR1/pic/7.1.png
-https://github.com/SergUdav/PI/blob/LR1/pic/7.2.png
+![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/7.1.png)
+![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/7.2.png)
 2.8. Особенности применения «Фетч»
-https://github.com/SergUdav/PI/blob/LR1/pic/8.png
+![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/8.png)
 2.9. Удаление файлов, веток, локальных и удалённых репозиториев
-https://github.com/SergUdav/PI/blob/LR1/pic/9.1.png
-https://github.com/SergUdav/PI/blob/LR1/pic/9.2.png
+![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/9.1.png)
+![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/9.2.png)
 2.10. Отслеживание изменений в коммитах
-https://github.com/SergUdav/PI/blob/LR1/pic/10.1.png
-https://github.com/SergUdav/PI/blob/LR1/pic/10.2.png
+![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/10.1.png)
+![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/10.2.png)
 2.11. Возвращение файла к предыдущему (определенному) состоянию
 
 2.12. Возвращение к предыдущему коммиту
-https://github.com/SergUdav/PI/blob/LR1/pic/12.png
+![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/12.png)
 2.13. Исправление коммита
-https://github.com/SergUdav/PI/blob/LR1/pic/13.png
+![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/13.png)
 2.14. Разрешение конфликтов при слиянии
-https://github.com/SergUdav/PI/blob/LR1/pic/14.png
+![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/14.png)
 2.15. Настройка .gitignore
