@@ -77,6 +77,7 @@
 ![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/12.png)
 
 2.13. Исправление коммита
+
 ![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/13.png)
 
 2.14. Разрешение конфликтов при слиянии
