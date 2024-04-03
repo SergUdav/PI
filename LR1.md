@@ -24,28 +24,28 @@
 Работу проверили:
 - к.э.н., доцент Панов М.А.
 2.1. Установка
-![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/1.png)
+  ![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/1.png)
 2.2. Настройка
-![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/2.png)
+  ![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/2.png)
 2.3. Создание нового репозитория
-![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/3.png)
+  ![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/3.png)
 2.4. Подготовка файлов
-![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/4.png)
+  ![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/4.png)
 2.5. Фиксация изменений
-![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/5.png)
+  ![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/5.png)
 2.6. Подключение к удаленному репозиторию
-![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/6.png)
+  ![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/6.png)
 2.7. Ветвление
-![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/7.1.png)
-![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/7.2.png)
+  ![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/7.1.png)
+  ![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/7.2.png)
 2.8. Особенности применения «Фетч»
-![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/8.png)
+  ![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/8.png)
 2.9. Удаление файлов, веток, локальных и удалённых репозиториев
-![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/9.1.png)
-![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/9.2.png)
+  ![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/9.1.png)
+  ![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/9.2.png)
 2.10. Отслеживание изменений в коммитах
-![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/10.1.png)
-![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/10.2.png)
+  ![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/10.1.png)
+  ![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/10.2.png)
 2.11. Возвращение файла к предыдущему (определенному) состоянию
 
 2.12. Возвращение к предыдущему коммиту
