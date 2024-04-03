@@ -23,10 +23,13 @@
 
 Работу проверили:
 - к.э.н., доцент Панов М.А.
+
 2.1. Установка
-  ![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/1.png)
+  
+  (https://github.com/SergUdav/PI/blob/LR1/pic/1.png)
   
 2.2. Настройка
+  
   ![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/2.png)
   
 2.3. Создание нового репозитория
