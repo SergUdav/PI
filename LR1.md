@@ -72,6 +72,8 @@
   
 2.11. Возвращение файла к предыдущему (определенному) состоянию
 
+  ![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/11.png)
+
 2.12. Возвращение к предыдущему коммиту
 
 ![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/12.png)
@@ -85,3 +87,5 @@
 ![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/14.png)
 
 2.15. Настройка .gitignore
+
+  ![Меню](https://github.com/SergUdav/PI/blob/LR1/pic/15.png)
