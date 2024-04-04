@@ -34,7 +34,7 @@ my_boot = Book("lalal", "qweww", 1888)
 print(my_boot.info())
 ```
 ### Результат:
-  ![Меню](https://github.com/SergUdav/PI/blob/LR8/pic/1.png)
+  ![Меню](https://github.com/SergUdav/PI/blob/LR8/pic/2.png)
 
   ### 3) Самостоятельно реализуйте наследование, продолжая работать с ранее созданным классом.
 
@@ -59,7 +59,7 @@ my_boot = Form_Book("lalal", "qweww", 1888, "zip")
 print(my_boot.info())
 ```
 ### Результат:
-  ![Меню](https://github.com/SergUdav/PI/blob/LR8/pic/1.png)
+  ![Меню](https://github.com/SergUdav/PI/blob/LR8/pic/3.png)
 
   ### 4) Самостоятельно реализуйте инкапсуляцию, продолжая работать с ранее созданным классом.
 
@@ -84,7 +84,7 @@ my_boot = Book("lalal", "qweww", 1888)
 print(my_boot.info())
 ```
 ### Результат:
-  ![Меню](https://github.com/SergUdav/PI/blob/LR8/pic/1.png)
+  ![Меню](https://github.com/SergUdav/PI/blob/LR8/pic/4.png)
 
   ### 5) Cамостоятельно реализуйте полиморфизм
 
@@ -105,5 +105,5 @@ cat = Cat("12", "11qq")
 print(cat.mo())
 ```
 ### Результат:
-  ![Меню](https://github.com/SergUdav/PI/blob/LR8/pic/1.png)
+  ![Меню](https://github.com/SergUdav/PI/blob/LR8/pic/5.png)
 
