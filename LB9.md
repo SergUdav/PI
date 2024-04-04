@@ -79,5 +79,5 @@ gardener.harvest() # Cборе урожая
 ```
 
 ## Результат:
-![Меню](https://github.com/SergUdav/PI/blob/LR9/pic/1.png)
+![Меню](https://github.com/SergUdav/PI/blob/LR9/pic/LB9.png)
 
