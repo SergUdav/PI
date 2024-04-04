@@ -83,7 +83,8 @@ def two():
 two()
 ```
 ### Результат:
-  ![Меню](https://github.com/SergUdav/PI/blob/LR10/pic/3.png)
+  ![Меню](https://github.com/SergUdav/PI/blob/LR10/pic/3.1.png)
+  ![Меню](https://github.com/SergUdav/PI/blob/LR10/pic/3.1.png)
 
 ### 4) Создайте собственный декоратор, который будет использоваться для двух любых вами придуманных функций. Декораторы, которые использовались ранее в работе нельзя воссоздавать. Результатом выполнения задачи будет: класс декоратора, две как-то связанными с ним функциями
 
@@ -133,4 +134,5 @@ def calculate_square(number):
 print(calculate_square(get_positive_number()))
 ```
 ### Результат:
-  ![Меню](https://github.com/SergUdav/PI/blob/LR10/pic/5.png)
+  ![Меню](https://github.com/SergUdav/PI/blob/LR10/pic/5.1.png)
+  ![Меню](https://github.com/SergUdav/PI/blob/LR10/pic/5.2.png)
